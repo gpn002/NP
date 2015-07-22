@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+########################################################
+#
+<channels>
+
+<channel>        
+	<name>[COLOR yellow]Marathi TV[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+	
+-------------------------------------------------------
+	
+-------------------------------------------------------
+
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR white]Nepali Movies[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>Super Hit Nepali Movies</title>
+<link>$doregex[showyoutube]</link>
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/channel/NOTHING/playlist/PLpEBhA1jujJTYTSCw7Uo5ebnNLe4lgbmJ/&quot;,return)')</expres>
+<page></page>
+</regex>
+</item>
+-------------------------------------------------------
+<item>
+<title>Big Films Nepali Movies</title>
+<link>$doregex[showyoutube]</link>
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/channel/UCE8p7EAEcXZaXtsnIlktzQQ/&quot;,return)')</expres>
+<page></page>
+</regex>
+</item>
+-------------------------------------------------------
+<item>
+<title>Nepali Full Movies</title>
+<link>$doregex[showyoutube]</link>
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/channel/NOTHING/playlist/PLGLH1TGVEqhS54gEe_c4YjU9Hu7qEB7EF/&quot;,return)')</expres>
+<page></page>
+</regex>
+</item>
+-------------------------------------------------------
+-------------------------------------------------------
+<item>
+<title>Nepali Film Full Song HD</title>
+<link>$doregex[showyoutube]</link>
+<regex>
+<name>showyoutube</name>
+<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10025,&quot;plugin://plugin.video.youtube/channel/PLMVgqLrO6Whr4KYkUQjOCwAljjPCTv_ZT/&quot;,return)')</expres>
+<page></page>
+</regex>
+</item>
+-------------------------------------------------------
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+</items>
+</channel>
+--------------------------------------------------------
+</channels>
