@@ -15,8 +15,9 @@
 </item>
 -------------------------------------------------------
 <item>
-<title>Himshikhar TV</title>
-<link></link>
+<title>HIMSHIKHAR TV</title>
+<sportsdevil>http://www.ustream.tv/embed/10628963</sportsdevil>
+<referer>http://www.ustream.tv</referer>
 <thumbnail>http://i1.wp.com/www.sahikuro.com/wp-content/uploads/2012/07/Himshikhar-TV.jpg?resize=158%2C128</thumbnail>
 </item>
 -------------------------------------------------------
@@ -33,10 +34,10 @@
 </item>	
 ------------------------------------------------------
 <item>
-<title>Mountain TV</title>
-<link></link>
+<title>Mountain Tv</title>
+<link>rtmp://103.1.93.25/live playpath=mountain live=1 timeout=120</link>
 <thumbnail>http://www.mountaintv.com.np/Modules/Logo/image/mtv_logo_423242.png</thumbnail>
-</item>	
+</item>
 ------------------------------------------------------
 <item>
 <title>Nepali TV</title>
