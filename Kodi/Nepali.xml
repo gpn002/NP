@@ -16,7 +16,7 @@
 -------------------------------------------------------
 <item>
 <title>Himshikhar TV</title>
-<link>http://162.212.176.113/broadcaster/HimalayanTVweb.stream/playlist.m3u8?sd=10&rebase=on</link>
+<link></link>
 <thumbnail>http://i1.wp.com/www.sahikuro.com/wp-content/uploads/2012/07/Himshikhar-TV.jpg?resize=158%2C128</thumbnail>
 </item>
 -------------------------------------------------------
@@ -30,6 +30,12 @@
 <title>MN TV</title>
 <link>http://mntvaustralia1-lh.akamaihd.net/i/mntvaustralia1_2@110995/index_646_av-b.m3u8?sd=10&rebase=on</link>
 <thumbnail>http://canadanepal.info/live/images/mntv.jpg</thumbnail>
+</item>	
+------------------------------------------------------
+<item>
+<title>Mountain TV</title>
+<link></link>
+<thumbnail>http://www.mountaintv.com.np/Modules/Logo/image/mtv_logo_423242.png</thumbnail>
 </item>	
 ------------------------------------------------------
 <item>
