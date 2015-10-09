@@ -4,7 +4,7 @@
 <channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR white]Nepali Live TV[/COLOR]</name>
+	<name>[COLOR green]Nepali Live TV[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>        
-	<name>[COLOR white]Nepali Movies[/COLOR]</name>
+	<name>[COLOR red]Nepali Movies[/COLOR]</name>
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
